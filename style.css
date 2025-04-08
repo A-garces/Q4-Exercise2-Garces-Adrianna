@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(255, 214, 232);
+    color: rgb(0, 0, 0);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.container {
+    max-width: 1000px;
+    padding: 2%;
+    border-radius: 5%;
+    margin-top: 10%;
+    background-color: white;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.col-auto {
+    margin-left: 8%;
+}
